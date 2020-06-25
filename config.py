@@ -1,1 +1,2 @@
 api_key = "d140ac17bb542758c410c439a2789584"
+g_key = "AIzaSyDNLIeXpUrHvF2lW2oRDLUY3ur_pT3vEGM"
